@@ -1,3 +1,3 @@
 # Portfolio
  
-Link: [Click here](rs301378.github.io)
+Link: (rs301378.github.io)
